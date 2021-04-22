@@ -1,0 +1,53 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,900,700,500,300,100);
+*{
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+/*  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 2rem;
+  padding-right: 2rem;*/
+  font-family: Roboto;
+  font-size: 0.875rem;
+  --text-opacity: 1;
+  color: #2d3748;
+  color: rgba(45, 55, 72, var(--text-opacity));
+}
+
+@media (max-width: 639px) {
+  body {
+/*    padding-left: 0.75rem;
+    padding-right: 0.75rem;*/
+  }
+}
+
+::selection {background: #f31544; color: #FFF;}
+::moz-selection {background: #f31544; color: #FFF;}
+h1{
+  font-size: 1.5em;
+  color: #222;
+}
+h2{font-size: .9em;}
+h3{
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 2em;
+}
+p{
+  font-size: .7em;
+  color: #666;
+  line-height: 1.2em;
+}
+a{
+    color: #38c172;
+}
+a:hover{
+    color: #2fa360;
+    text-decoration: none;
+}
