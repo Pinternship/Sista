@@ -336,7 +336,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section_title mb-40">
-                        <h3>Popolar Categories</h3>
+                        <h3>Popular categories</h3>
                     </div>
                 </div>
             </div>
