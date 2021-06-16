@@ -233,7 +233,7 @@
 
 
                     <div class="terms-msg mt-5 mb-3">
-                        <p class="text-small text-muted font-italic">By applying to a job using {{get_option('site_name')}} you are agreeing to comply with and be subject to the {{get_option('site_name')}}  <a href="">Terms and Conditions</a> for use of our website. To use our website, you must agree with the <a href="">Terms and Conditions</a> and both meet and comply with their provisions.
+                        <p class="text-small text-muted font-italic">By applying to a job using {{get_option('site_name')}} you are agreeing to comply with and be subject to the {{get_option('site_name')}}  <a href="https://sista.unika.ac.id/p/terms-and-conditions">Terms and Conditions</a> for use of our website. To use our website, you must agree with the <a href="https://sista.unika.ac.id/p/terms-and-conditions">Terms and Conditions</a> and both meet and comply with their provisions.
                         </p>
                     </div>
                 </div>
