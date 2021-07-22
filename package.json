@@ -72,7 +72,7 @@
         "tooltipster": "^4.2.7",
         "velocity-animate": "^1.5.2",
         "vue-template-compiler": "^2.6.11",
-        "xlsx": "^0.16.9",
+        "xlsx": "^0.17.0",
         "zoom-vanilla.js": "^2.0.6"
     },
     "devDependencies": {
